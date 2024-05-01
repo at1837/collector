@@ -75,8 +75,8 @@ DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "collector",
-        "USER" : "root",
-        "PASSWORD" : "12345678",
+        "USER" : "****",
+        "PASSWORD" : "****",
         "HOST" : "collector.ctq0y2q2szk5.us-east-1.rds.amazonaws.com",
         "PORT" : "5432",
     }
